@@ -1,9 +1,11 @@
-# Construindo-sexy-APIs-usando-arquitetura-serverless
+# API para Gestão de Produtos
 
-Nesse desafio foi desenvolvido um projeto de “APIs para Gestão de Produtos utilizando Node.js” ao qual foi aplicado os conceitos de desenvolvimento de APIs e Arquitetura Serverless com Node.js e Azure Functions.
+APIs-usando-arquitetura-serverless
+
+Nesta API para Gestão de Produtos foi utilizada arquitetura Serverless com Node.js e Azure Functions.
 
 
-## 🚀 Recursos Utilizados
+##  Recursos Utilizados
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=vuechatapp_swa-github-gllemos)**
 * **[Node.Js](https://nodejs.org/en/)**
@@ -47,24 +49,8 @@ Bom, agora na mesma tela do cmd, basta iniciar o serverless para o projeto ser e
 ```
 
 
-## 🚩 Tenho Dúvidas... O que fazer? 
-
-Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
-## Autor:
-
-* [**Wanderson A. Timóteo**](https://wanderson.ga)
-
-
 ## Licença
 
 * Licenciado sob a licença MIT - veja [LICENSE](LICENSE) para mais informações.
 
-## Agradecimentos
-
-![Preview](https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis/blob/master/cover_dio.jpg?raw=true)
-
-* Projeto construído durante as aulas do BootCamp Node.js Web Developer da [Digital Innovation One](https://web.digitalinnovation.one/), em Setembro de 2020. 
-
-* Agradecimento ao instrutor [Igor Luiz Halfeld](https://github.com/IgorHalfeld) por compartilhar seu conhecimento e nos ensinar.
 
