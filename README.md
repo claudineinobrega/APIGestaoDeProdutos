@@ -1,7 +1,5 @@
 # API para Gestão de Produtos
 
-APIs-usando-arquitetura-serverless
-
 Nesta API para Gestão de Produtos foi utilizada arquitetura Serverless com Node.js e Azure Functions.
 
 
